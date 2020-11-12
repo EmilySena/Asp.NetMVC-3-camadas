@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Supermercado3\Supermercado3.AcessoDados\bin\Debug\Supermercado3.AcessoDados.dll.config
+C:\Users\User\source\repos\Supermercado3\Supermercado3.AcessoDados\bin\Debug\Supermercado3.AcessoDados.dll
+C:\Users\User\source\repos\Supermercado3\Supermercado3.AcessoDados\bin\Debug\Supermercado3.AcessoDados.pdb
+C:\Users\User\source\repos\Supermercado3\Supermercado3.AcessoDados\obj\Debug\Supermercado3.AcessoDados.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Supermercado3\Supermercado3.AcessoDados\obj\Debug\Supermercado3.AcessoDados.dll
+C:\Users\User\source\repos\Supermercado3\Supermercado3.AcessoDados\obj\Debug\Supermercado3.AcessoDados.pdb

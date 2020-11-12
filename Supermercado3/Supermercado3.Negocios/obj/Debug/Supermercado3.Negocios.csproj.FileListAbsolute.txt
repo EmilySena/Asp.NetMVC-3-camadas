@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Supermercado3\Supermercado3.Negocios\bin\Debug\Supermercado3.Negocios.dll
+C:\Users\User\source\repos\Supermercado3\Supermercado3.Negocios\bin\Debug\Supermercado3.Negocios.pdb
+C:\Users\User\source\repos\Supermercado3\Supermercado3.Negocios\bin\Debug\Supermercado3.AcessoDados.dll
+C:\Users\User\source\repos\Supermercado3\Supermercado3.Negocios\bin\Debug\Supermercado3.AcessoDados.pdb
+C:\Users\User\source\repos\Supermercado3\Supermercado3.Negocios\bin\Debug\Supermercado3.AcessoDados.dll.config
+C:\Users\User\source\repos\Supermercado3\Supermercado3.Negocios\obj\Debug\Supermercado3.Negocios.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Supermercado3\Supermercado3.Negocios\obj\Debug\Supermercado3.Negocios.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Supermercado3\Supermercado3.Negocios\obj\Debug\Supermercado3.Negocios.csproj.CopyComplete
+C:\Users\User\source\repos\Supermercado3\Supermercado3.Negocios\obj\Debug\Supermercado3.Negocios.dll
+C:\Users\User\source\repos\Supermercado3\Supermercado3.Negocios\obj\Debug\Supermercado3.Negocios.pdb
